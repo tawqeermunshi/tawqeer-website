@@ -6,19 +6,19 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 
 const projects = [
   {
-    title: "E-commerce Platform Redesign",
-    description: "Led a complete redesign of the company's e-commerce platform, resulting in a 40% increase in conversion rate and 25% reduction in cart abandonment.",
-    categories: ["UX Research", "Product Strategy", "Agile"]
+    title: "AI Tax Assistant",
+    description: "Built an AI-powered tax assistant to help users get quick answers to their tax queries, reducing CPA queries by 50% and increasing subscriptions by 10%.",
+    categories: ["AI/ML", "Product Strategy", "User Experience"]
   },
   {
-    title: "Mobile App Development",
-    description: "Managed the development of a mobile application that streamlined customer service processes, reducing response times by 50% and increasing customer satisfaction scores by 35%.",
-    categories: ["Mobile", "Customer Experience", "Analytics"]
+    title: "Expense Classification System",
+    description: "Developed an AI system that auto-classifies user expenses with 96% accuracy, automating 40% of user work and increasing subscriptions by 12%.",
+    categories: ["AI/ML", "Automation", "UX Design"]
   },
   {
-    title: "Enterprise Dashboard Solution",
-    description: "Created a comprehensive dashboard solution for enterprise clients, providing real-time insights into business metrics and improving decision-making processes.",
-    categories: ["B2B", "Data Visualization", "Enterprise"]
+    title: "Reimbursement Automation",
+    description: "Automated bill reimbursements and redesigned the verification process, reducing turnaround time from 10 days to just 2 days.",
+    categories: ["Process Optimization", "Automation", "User Experience"]
   }
 ];
 
@@ -26,7 +26,7 @@ const Projects = () => {
   return (
     <section id="projects" className="bg-secondary/50">
       <div className="section-container">
-        <h2 className="section-title">Featured Projects</h2>
+        <h2 className="section-title">Notable Projects</h2>
         
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projects.map((project, index) => (

@@ -9,12 +9,12 @@ const Hero = () => {
       <div className="container grid md:grid-cols-2 gap-12 md:gap-8 items-center">
         <div className="space-y-8 max-w-xl">
           <h1 className="fade-in text-4xl md:text-5xl lg:text-6xl font-display font-bold leading-tight">
-            Product Manager <span className="text-primary">Driving Innovation</span> & Growth
+            Munshi Mohammad <span className="text-primary">Tawqeer</span>
           </h1>
           
           <p className="fade-in animate-delay-200 text-lg md:text-xl text-muted-foreground">
-            I transform business goals into successful products through strategic thinking, 
-            user-centric design, and cross-functional collaboration.
+            Senior Product Manager experienced in AI-driven solutions, driving user experience improvements
+            and business growth through strategic product development.
           </p>
           
           <div className="fade-in animate-delay-400 flex flex-wrap gap-4">
@@ -35,7 +35,7 @@ const Hero = () => {
         <div className="relative fade-in animate-delay-600 hidden md:block">
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-72 h-72 bg-primary/10 rounded-full"></div>
           <img 
-            src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800"
+            src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500"
             alt="Product Management Illustration"
             className="relative z-10 rounded-lg shadow-xl mx-auto"
           />

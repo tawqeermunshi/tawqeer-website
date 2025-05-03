@@ -4,19 +4,19 @@ import React from 'react';
 const skillCategories = [
   {
     title: "Product Management",
-    skills: ["Product Strategy", "Roadmap Planning", "User Stories", "Market Research", "Competitive Analysis", "Product Lifecycle", "A/B Testing", "Feature Prioritization", "User Interviews"]
+    skills: ["Product Strategy", "Roadmap Planning", "User Research", "Requirement Specification (PRDs)", "Feature Prioritization", "Usability Testing", "Stakeholder Management", "Go-to-Market Strategy", "Cross-functional Leadership"]
   },
   {
-    title: "Technical",
-    skills: ["Agile Methodologies", "Scrum", "JIRA", "Confluence", "Data Analysis", "SQL", "API Design", "Wireframing", "Prototyping"]
+    title: "Technical Skills",
+    skills: ["SQL", "Figma", "Amplitude", "Postman", "Retool", "Excel", "Jira/Asana", "WebEngage"]
   },
   {
     title: "Business",
-    skills: ["Stakeholder Management", "Business Case Development", "Revenue Modeling", "Go-to-Market Strategy", "KPI Definition", "OKRs", "Project Management"]
+    skills: ["Business Strategy", "Market/Competitor Analysis", "Data Analysis", "A/B Testing", "User Retention", "AI Implementation", "Revenue Growth"]
   },
   {
-    title: "Soft Skills",
-    skills: ["Leadership", "Cross-functional Collaboration", "Communication", "Presentation", "Negotiation", "Problem Solving", "Customer Empathy"]
+    title: "Achievements",
+    skills: ["Vice President, Entrepreneurship Cell", "Lead Host, Public Speaking", "Gold Medalist, Cricket", "Event Operations Management"]
   }
 ];
 

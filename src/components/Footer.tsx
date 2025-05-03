@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
-            <span className="text-xl font-display font-bold">PM<span className="text-primary">Portfolio</span></span>
+            <span className="text-xl font-display font-bold">Tawqeer<span className="text-primary">Munshi</span></span>
           </div>
           
           <nav className="mb-6 md:mb-0">
@@ -24,7 +24,7 @@ const Footer = () => {
           
           <div>
             <p className="text-muted-foreground text-sm">
-              &copy; {currentYear} Product Manager Portfolio. All rights reserved.
+              &copy; {currentYear} Munshi Mohammad Tawqeer. All rights reserved.
             </p>
           </div>
         </div>

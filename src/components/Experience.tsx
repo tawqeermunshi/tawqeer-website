@@ -1,25 +1,25 @@
 
 import React from 'react';
-import { Calendar } from 'lucide-react';
+import { Calendar, Building } from 'lucide-react';
 
 const experiences = [
   {
     role: "Senior Product Manager",
-    company: "Tech Innovations Inc.",
-    period: "2021 - Present",
-    description: "Led the development and launch of the company's flagship product, resulting in a 30% increase in user engagement. Collaborated with engineering, design, and marketing teams to define product vision and roadmap. Conducted competitive analysis and user research to inform product decisions."
-  },
-  {
-    role: "Product Manager",
-    company: "Digital Solutions Ltd.",
-    period: "2018 - 2021",
-    description: "Managed the product lifecycle from conception to launch for multiple B2B SaaS products. Implemented Agile methodologies to improve team productivity by 25%. Gathered and prioritized product requirements based on market research and stakeholder feedback."
+    company: "FlyFin AI (Backed by Accel)",
+    period: "Jan 2023 - Present",
+    description: "Led cross-functional teams to build AI-driven features for tax and expense management app. Built AI tax assistant reducing CPA queries by 50%, increasing subscriptions by 10%. Implemented AI automation for expense classification with 96% accuracy, increasing subscriptions by 12%. Launched referral program and improved user retention through strategic initiatives."
   },
   {
     role: "Associate Product Manager",
-    company: "Future Technologies",
-    period: "2016 - 2018",
-    description: "Assisted in the development of product roadmaps and feature prioritization. Conducted user testing and gathered feedback to improve product usability. Collaborated with engineering teams to ensure timely delivery of features."
+    company: "CLINIKK (Backed by Massmutual Ventures)",
+    period: "Nov 2021 - Jan 2023",
+    description: "Automated bill reimbursements reducing turnaround time from 10 days to 2 days. Designed WhatsApp onboarding module increasing adoption by 23% and retention by 10%. Built efficient ticketing module for customer experience team, reducing TAT per ticket by 40%. Conducted user interviews to identify pain points and shape product roadmap."
+  },
+  {
+    role: "Founder",
+    company: "MILKIYAT",
+    period: "Feb 2020 - Oct 2021",
+    description: "Led a team of 8 to build J&K's first tech-enabled real-estate platform, successfully onboarding 1500+ properties and 100+ agents. Generated $10k in revenue with over 10,000 active users and a 4.8 rating on Play Store. Responsible for product conceptualization, operational processes, and marketing campaigns."
   }
 ];
 

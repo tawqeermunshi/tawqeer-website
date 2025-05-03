@@ -18,22 +18,19 @@ const About = () => {
           
           <div className="md:col-span-3 space-y-6">
             <p className="text-lg">
-              As a seasoned Product Manager with extensive experience in the tech industry, 
-              I specialize in leading cross-functional teams to deliver innovative solutions 
-              that drive business growth and enhance user experiences.
+              I'm a Senior Product Manager at FlyFin AI with a strong background in building 
+              AI-powered products that solve real user problems and drive business growth.
             </p>
             
             <p className="text-lg">
-              My approach combines strong analytical skills with creative problem-solving, 
-              allowing me to translate complex business requirements into clear product strategies. 
-              I thrive in fast-paced environments where collaboration and adaptability are key.
+              My experience spans across leading tech startups where I've successfully led cross-functional 
+              teams to develop innovative solutions in fintech, healthcare, and real estate sectors.
             </p>
             
             <p className="text-lg">
-              Throughout my career, I've successfully launched products that have positively 
-              impacted millions of users while consistently meeting business objectives and 
-              deadlines. I'm passionate about continuous learning and staying at the forefront 
-              of product development methodologies and market trends.
+              With a foundation in Computer Science Engineering from R.V. College of Engineering, 
+              I combine technical knowledge with product strategy to create meaningful user experiences 
+              that deliver tangible business results.
             </p>
           </div>
         </div>
