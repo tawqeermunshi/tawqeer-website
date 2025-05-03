@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { Mail, Linkedin, Github, ExternalLink } from 'lucide-react';
+import { Mail, Linkedin, ExternalLink } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
@@ -34,8 +33,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-medium">Email</h3>
-                  <a href="mailto:contact@example.com" className="text-primary hover:underline">
-                    contact@example.com
+                  <a href="mailto:tawqeermunshi@gmail.com" className="text-primary hover:underline">
+                    tawqeermunshi@gmail.com
                   </a>
                 </div>
               </div>
@@ -46,21 +45,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-medium">LinkedIn</h3>
-                  <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline flex items-center">
-                    linkedin.com/in/yourprofile
-                    <ExternalLink className="h-3 w-3 ml-1" />
-                  </a>
-                </div>
-              </div>
-              
-              <div className="flex items-center gap-4">
-                <div className="bg-primary/10 p-3 rounded-full">
-                  <Github className="h-6 w-6 text-primary" />
-                </div>
-                <div>
-                  <h3 className="font-medium">GitHub</h3>
-                  <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline flex items-center">
-                    github.com/yourusername
+                  <a href="https://www.linkedin.com/in/tawqeer-munshi/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline flex items-center">
+                    linkedin.com/in/tawqeer-munshi
                     <ExternalLink className="h-3 w-3 ml-1" />
                   </a>
                 </div>

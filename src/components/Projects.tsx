@@ -1,8 +1,6 @@
 
 import React from 'react';
-import { ArrowRight } from 'lucide-react';
-import { Button } from '@/components/ui/button';
-import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 
 const projects = [
   {
@@ -44,12 +42,6 @@ const Projects = () => {
                   ))}
                 </div>
               </CardContent>
-              <CardFooter>
-                <Button variant="ghost" className="group">
-                  View Project Details 
-                  <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
-                </Button>
-              </CardFooter>
             </Card>
           ))}
         </div>
