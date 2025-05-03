@@ -24,7 +24,7 @@ const Footer = () => {
           
           <div>
             <p className="text-muted-foreground text-sm">
-              &copy; {currentYear} Munshi Mohammad Tawqeer. All rights reserved.
+              &copy; {currentYear} Tawqeer Munshi. All rights reserved.
             </p>
           </div>
         </div>

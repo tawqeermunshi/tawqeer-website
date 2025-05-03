@@ -30,9 +30,9 @@ const Header = () => {
       isScrolled ? "bg-background/90 backdrop-blur-md shadow-sm py-4" : "py-6"
     )}>
       <div className="container flex justify-between items-center">
-        <a href="#" className="flex items-center gap-2">
-          <span className="text-xl font-display font-bold">PM<span className="text-primary">Portfolio</span></span>
-        </a>
+        <div className="flex items-center gap-2">
+          <span className="text-xl font-display font-bold">Tawqeer Munshi</span>
+        </div>
         
         {/* Desktop navigation */}
         <nav className="hidden md:block">
