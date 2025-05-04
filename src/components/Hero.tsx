@@ -35,8 +35,8 @@ const Hero = () => {
         <div className="relative fade-in animate-delay-600 hidden md:block">
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-72 h-72 bg-primary/10 rounded-full"></div>
           <img 
-            src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500"
-            alt="Product Management Illustration"
+            src="/lovable-uploads/a641d1c3-893b-4e8a-9797-edb9487136d4.png"
+            alt="Tawqeer Munshi"
             className="relative z-10 rounded-lg shadow-xl mx-auto"
           />
         </div>
