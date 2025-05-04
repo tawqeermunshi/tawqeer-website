@@ -60,12 +60,13 @@ const Contact = () => {
                 <div>
                   <h3 className="font-medium">Resume</h3>
                   <a 
-                    href="/Tawqeer_Munshi_Resume.pdf" 
-                    download 
+                    href="https://drive.google.com/file/d/1RmNeMvVSNzAC84gFggz0Vr9TgEObDly_/view?usp=sharing" 
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="text-primary hover:underline flex items-center"
                   >
-                    Download Resume
-                    <FileText className="h-3 w-3 ml-1" />
+                    View Resume
+                    <ExternalLink className="h-3 w-3 ml-1" />
                   </a>
                 </div>
               </div>
