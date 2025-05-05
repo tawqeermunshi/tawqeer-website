@@ -7,8 +7,8 @@
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 0 0% 0%;
+    --background: 40 38% 97%;  /* Soft beige color for old book page look */
+    --foreground: 20 10% 5%;
 
     --card: 0 0% 100%;
     --card-foreground: 0 0% 0%;
@@ -19,20 +19,20 @@
     --primary: 0 0% 0%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 0 0% 96%;
+    --secondary: 40 30% 96%;  /* Slightly darker beige for secondary elements */
     --secondary-foreground: 0 0% 0%;
 
-    --muted: 0 0% 96%;
+    --muted: 40 20% 94%;  /* Muted beige */
     --muted-foreground: 0 0% 45%;
 
-    --accent: 0 0% 90%;
+    --accent: 40 15% 90%;  /* Accent beige */
     --accent-foreground: 0 0% 0%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
 
-    --border: 0 0% 90%;
-    --input: 0 0% 90%;
+    --border: 40 20% 85%;  /* Border color to match beige theme */
+    --input: 40 20% 90%;   /* Input color to match beige theme */
     --ring: 0 0% 0%;
 
     --radius: 0.5rem;
