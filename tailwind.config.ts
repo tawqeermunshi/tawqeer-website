@@ -69,8 +69,8 @@ export default {
 				}
 			},
 			fontFamily: {
-				sans: ['Inter', 'sans-serif'],
-				display: ['Montserrat', 'sans-serif'],
+				sans: ['Poppins', 'sans-serif'],
+				display: ['Lora', 'serif'],
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
