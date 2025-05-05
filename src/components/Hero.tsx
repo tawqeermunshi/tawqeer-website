@@ -13,8 +13,7 @@ const Hero = () => {
           </h1>
           
           <p className="fade-in animate-delay-200 text-lg md:text-xl text-muted-foreground">
-            Senior Product Manager experienced in AI-driven solutions, driving user experience improvements
-            and business growth through strategic product development.
+            Senior Product Manager with a track record of building 0→1 products at early-stage, venture-backed startups. Driving revenue growth through strategic product development and a relentless focus on business impact.
           </p>
           
           <div className="fade-in animate-delay-400 flex flex-wrap gap-4">
