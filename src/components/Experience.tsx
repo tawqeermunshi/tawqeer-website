@@ -25,7 +25,7 @@ const experiences = [
 
 const Experience = () => {
   return (
-    <section id="experience" className="bg-white">
+    <section id="experience" className="bg-background">
       <div className="section-container">
         <h2 className="section-title">Professional Experience</h2>
         

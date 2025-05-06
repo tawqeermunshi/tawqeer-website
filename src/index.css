@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
 
 @tailwind base;
@@ -6,32 +7,32 @@
 
 @layer base {
   :root {
-    --background: 0 0% 100%;  /* White background */
+    --background: 36 33% 94%;  /* Beige background */
     --foreground: 20 10% 5%;
 
-    --card: 0 0% 100%;
+    --card: 36 33% 94%;
     --card-foreground: 0 0% 0%;
 
-    --popover: 0 0% 100%;
+    --popover: 36 33% 94%;
     --popover-foreground: 0 0% 0%;
 
     --primary: 0 0% 0%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 0 0% 100%;  /* Changed to pure white */
+    --secondary: 36 33% 94%;  /* Beige */
     --secondary-foreground: 0 0% 0%;
 
-    --muted: 0 0% 98%;  /* Very light shade for muted areas */
+    --muted: 36 30% 92%;  /* Slightly darker beige for muted areas */
     --muted-foreground: 0 0% 45%;
 
-    --accent: 0 0% 96%;  /* Very light shade for accents */
+    --accent: 36 25% 91%;  /* Slightly darker beige for accents */
     --accent-foreground: 0 0% 0%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
 
-    --border: 0 0% 90%;  /* Light border */
-    --input: 0 0% 94%;   /* Very light input background */
+    --border: 36 20% 85%;  /* Slightly darker beige for borders */
+    --input: 36 28% 90%;   /* Slightly darker beige for input background */
     --ring: 0 0% 0%;
 
     --radius: 0.5rem;

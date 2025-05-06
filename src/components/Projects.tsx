@@ -22,7 +22,7 @@ const projects = [
 
 const Projects = () => {
   return (
-    <section id="projects" className="bg-white">
+    <section id="projects" className="bg-background">
       <div className="section-container">
         <h2 className="section-title">Notable Projects</h2>
         

@@ -22,7 +22,7 @@ const skillCategories = [
 
 const Skills = () => {
   return (
-    <section id="skills">
+    <section id="skills" className="bg-background">
       <div className="section-container">
         <h2 className="section-title">Core Competencies</h2>
         

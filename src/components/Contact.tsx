@@ -4,7 +4,7 @@ import { Mail, Linkedin, ExternalLink, FileText } from 'lucide-react';
 
 const Contact = () => {
   return (
-    <section id="contact" className="bg-white">
+    <section id="contact" className="bg-background">
       <div className="section-container">
         <h2 className="section-title">Get In Touch</h2>
         
