@@ -65,12 +65,12 @@
   }
 
   .timeline-item {
-    @apply relative pl-8 pb-12 border-l-2 border-black border-opacity-70;
+    @apply relative pl-8 pb-12 border-l border-black border-opacity-40;
   }
 
   .timeline-item::before {
     content: "";
-    @apply absolute left-0 top-0 w-4 h-4 rounded-full bg-primary -translate-x-[9px];
+    @apply absolute left-0 top-0 w-3 h-3 rounded-full bg-primary -translate-x-1.5;
   }
 
   .timeline-item:last-child {
