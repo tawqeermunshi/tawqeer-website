@@ -22,7 +22,7 @@ const projects = [
 
 const Projects = () => {
   return (
-    <section id="projects" className="bg-secondary/50">
+    <section id="projects" className="bg-white">
       <div className="section-container">
         <h2 className="section-title">Notable Projects</h2>
         
@@ -36,7 +36,7 @@ const Projects = () => {
                 <CardDescription className="text-base">{project.description}</CardDescription>
                 <div className="mt-4 flex flex-wrap gap-2">
                   {project.categories.map((category, catIndex) => (
-                    <span key={catIndex} className="bg-secondary px-2 py-1 rounded text-xs font-medium">
+                    <span key={catIndex} className="bg-accent px-2 py-1 rounded text-xs font-medium">
                       {category}
                     </span>
                   ))}
