@@ -1,4 +1,5 @@
 
+
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
 
 @tailwind base;
@@ -7,7 +8,7 @@
 
 @layer base {
   :root {
-    --background: 40 38% 97%;  /* Soft beige color for old book page look */
+    --background: 0 0% 100%;  /* Changed to white */
     --foreground: 20 10% 5%;
 
     --card: 0 0% 100%;
@@ -19,20 +20,20 @@
     --primary: 0 0% 0%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 40 30% 96%;  /* Slightly darker beige for secondary elements */
+    --secondary: 0 0% 96%;  /* Updated to match white theme */
     --secondary-foreground: 0 0% 0%;
 
-    --muted: 40 20% 94%;  /* Muted beige */
+    --muted: 0 0% 94%;  /* Updated to match white theme */
     --muted-foreground: 0 0% 45%;
 
-    --accent: 40 15% 90%;  /* Accent beige */
+    --accent: 0 0% 90%;  /* Updated to match white theme */
     --accent-foreground: 0 0% 0%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
 
-    --border: 40 20% 85%;  /* Border color to match beige theme */
-    --input: 40 20% 90%;   /* Input color to match beige theme */
+    --border: 0 0% 85%;  /* Updated to match white theme */
+    --input: 0 0% 90%;   /* Updated to match white theme */
     --ring: 0 0% 0%;
 
     --radius: 0.5rem;
@@ -97,3 +98,4 @@
     animation-delay: 600ms;
   }
 }
+
